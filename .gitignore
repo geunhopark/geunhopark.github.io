@@ -11,8 +11,9 @@ _site
 .jekyll-metadata
 
 # Bundler generated files
-.bundle/
-vendor
+.bundle
+**/vendor/bundle
 
 # Ruby Gem
+.gem
 Gemfile.lock
