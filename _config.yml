@@ -12,7 +12,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "박근호"
   avatar           : "/assets/images/bio-photo500x500.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "행복은 불타는 이단옆차기-!"
+  bio              : "지혜가 담긴 지식을 가질 수 있기를.<br><em>웹 개발자</em>,<em>백엔드</em>,<em>자바</em>"
   location         : "Seoul, South Korea"
   email            :
   links:
